@@ -1,13 +1,13 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
 <h3>Name: Divya A</h3>
 <h3>Register Number: 212222230034</h3>
-<H3>Aim:</H3>
+<H2>Aim:</H2>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
 </p>
-<h1>Problem Description</h1>
+<H2>Problem Description</H2>
 <hr>
-<h2>Wumpus World</h2>
+<H2>Wumpus World</H2>
 <hr>
 The Wumpus world is a simple world example to illustrate the worth of a knowledge-based agent and to represent knowledge representation.
 
@@ -137,7 +137,7 @@ while(player):
 ```
 
 <hr>
-<h1>Sample Output:</h1>
+<H2>Sample Output:</H2>
 <hr>
 
 ![image](https://github.com/user-attachments/assets/1460cda0-ef9d-412b-81f6-d12e9a3eee5a)
