@@ -143,4 +143,4 @@ while(player):
 ![image](https://github.com/user-attachments/assets/1460cda0-ef9d-412b-81f6-d12e9a3eee5a)
 
 ## Result:
-he program uses propositional logic to guide the agent safely through the Wumpus World, enabling it to avoid hazards and find the gold successfully.
+The program uses propositional logic to guide the agent safely through the Wumpus World, enabling it to avoid hazards and find the gold successfully.
